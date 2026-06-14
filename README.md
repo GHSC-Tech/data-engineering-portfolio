@@ -12,6 +12,8 @@ Aqui estão meus projetos práticos desenvolvidos com foco em ETL, pipelines de 
 Pipeline de extração, transformação e carga de dados usando Python.
 
 👉 https://github.com/GHSC-Tech/projeto_etl_python
+👉 https://github.com/GHSC-Tech/Projeto-TCA-Google-Data-Analytics
+👉 https://github.com/GHSC-Tech/Desafio
 
 ---
 
